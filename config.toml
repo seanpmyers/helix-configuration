@@ -1,0 +1,12 @@
+theme = "edge"
+
+[editor]
+
+line-number = "relative"
+end-of-line-diagnostics = "hint"
+
+[editor.file-picker]
+hidden = false
+
+[editor.inline-diagnostics]
+cursor-line = "hint"
